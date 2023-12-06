@@ -1,2 +1,2 @@
-# aleo-tictakto
+# Aleo-TiKtakto
 aleo tiktacto
